@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646911594565",
+    "firebase_url": "https://notifyschool-4cbb1.firebaseio.com",
+    "project_id": "notifyschool-4cbb1",
+    "storage_bucket": "notifyschool-4cbb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646911594565:android:bc705c48db18a1d650932c",
+        "android_client_info": {
+          "package_name": "com.project.notifyschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646911594565-ljs1i35btfkaq7mbk4f53rovge47t8dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-0nNO0Mjo0T833oMtpi7cjZ5A_ODcc94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646911594565-ljs1i35btfkaq7mbk4f53rovge47t8dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
